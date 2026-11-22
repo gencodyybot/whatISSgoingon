@@ -18,7 +18,7 @@ A real-time International Space Station (ISS) orbital companion designed to comb
 ## Tech Stack & APIs
 
 * **Backend:** Python, Flask
-* **Frontend:** HTML, CSS, JavaScript, Bootstrap
+* **Frontend:** HTML, CSS, JavaScript
 * **APIs & Libraries:**
   * [Where The ISS At](https://wheretheiss.at/) - Live ISS coordinates & timezone
   * [Radio Browser API](https://www.radio-browser.info/) - Live local radio streams
